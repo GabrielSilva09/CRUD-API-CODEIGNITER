@@ -18,10 +18,10 @@ Mais abaixo explico os requisitos necessários para o teste e como fazê-lo.
 
 ## Requisitos para testar funcionamento
 
--PHP 8.2
--Composer
--Banco de dados MySQL (utilizei o xampp)
--App que consuma API (Ex. Postman)
+-PHP 8.2<br>
+-Composer<br>
+-Banco de dados MySQL (utilizei o xampp)<br>
+-App que consuma API (Ex. Postman)<br>
 -Editor de código de sua preferência
 
 ## Como utilizar a API
